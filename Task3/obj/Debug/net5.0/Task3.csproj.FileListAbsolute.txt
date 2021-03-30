@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\ref\Task3.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\bin\Debug\net5.0\Task3.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\ref\Task3.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\ArrayTask\task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache
